@@ -4,6 +4,6 @@ In turbulence, it is important to characterize the behaviour of small scales and
 
 The main document (titled "OUKIL_Anis_Belkacem_Rapport_stage_M2" in french, soon in english)  is my internship report as part of my graduation in fluid mechanics. 
 
-This internship was supervised by Jean-François KRAWCZYNSKI and Philippe DRUAULT of the "Institut Jean le Rond d'Alembert" laboratory of mechanics at Sorbonne Université, faculty of Science, Paris. 
+This internship was supervised by Jean-François KRAWCZYNSKI and Philippe DRUAULT from the "Institut Jean le Rond d'Alembert" laboratory of mechanics at Sorbonne Université, faculty of Science, Paris. 
 
 This study is based on the scientific article written by my supervisors (titled "Cheminet_Krawczynski_Druault.2018.MST"), that you can find as the second main document.
